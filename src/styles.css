@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    /* Define el margen de los cuatro lados */
+    margin: 0;
+
+    /* Define el espacio entre el contenido del elemento y su borde */
+    padding: 0;
+
+    /* Define el tamaño de la caja del contenido del elemento */
+    box-sizing: border-box;
+
+    /* Fuente de la aplicación */
+    font-family: sans-serif;
+
+}
